@@ -25,7 +25,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TesteCliente.API\CRUDCliente.API.csproj" />
+    <ProjectReference Include="..\CRUDCliente.API\CRUDCliente.API.csproj" />
   </ItemGroup>
 
 </Project>

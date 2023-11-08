@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TesteCliente.Domain\CRUDCliente.Domain.csproj" />
+    <ProjectReference Include="..\CRUDCliente.Domain\CRUDCliente.Domain.csproj" />
   </ItemGroup>
 
 </Project>

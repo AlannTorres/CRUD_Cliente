@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUDCliente.API", "TesteCliente.API\CRUDCliente.API.csproj", "{93819413-F1A4-4DC3-8D50-44AF51BCA3F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUDCliente.API", "CRUDCliente.API\CRUDCliente.API.csproj", "{93819413-F1A4-4DC3-8D50-44AF51BCA3F5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUDCliente.Application", "TesteCliente.Application\CRUDCliente.Application.csproj", "{D64A48D3-6116-40D2-9D49-487560B7AB36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUDCliente.Application", "CRUDCliente.Application\CRUDCliente.Application.csproj", "{D64A48D3-6116-40D2-9D49-487560B7AB36}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUDCliente.Infra", "TesteCliente.Infra\CRUDCliente.Infra.csproj", "{4EE00FDB-668F-487E-B060-7BE1F114EEAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUDCliente.Infra", "CRUDCliente.Infra\CRUDCliente.Infra.csproj", "{4EE00FDB-668F-487E-B060-7BE1F114EEAE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUDCliente.Domain", "TesteCliente.Domain\CRUDCliente.Domain.csproj", "{A875CC26-FCBD-4EA3-BFCA-3BAF3E6AE0DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUDCliente.Domain", "CRUDCliente.Domain\CRUDCliente.Domain.csproj", "{A875CC26-FCBD-4EA3-BFCA-3BAF3E6AE0DC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{73CAD803-BC7A-4EDC-AB54-C9A1D2130F81}"
 EndProject
