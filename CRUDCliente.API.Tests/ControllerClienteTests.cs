@@ -1,6 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
 using CRUDCliente.API.Controller;
-using CRUDCliente.Application.DTOs;
 using CRUDCliente.Application.Interfaces;
 using Moq;
 

@@ -1,9 +1,9 @@
 ﻿using CRUDCliente.Application.DTOs;
 using System.ComponentModel.DataAnnotations;
 
-namespace CRUDCliente.API.Tests;
+namespace CRUDCliente.Application.Tests;
 
-public class CleinteDTOTests
+public class ClienteDTOTests
 {
     [Fact(DisplayName = "Declaração sem o atributo nome")]
     public void Nome_RequiredValidation_Success()
